@@ -47,14 +47,3 @@ Opção totalmente personalizável, onde você começa do zero.
 - Visão prática sobre a criação de soluções inteligentes aplicadas a negócios
 
 ---
-
-## 📌 Observações
-
-Este repositório pode conter:
-
-- Anotações e resumos pessoais sobre o curso (`/notes`)
-- Exemplos de fluxos criados no agente (`/flows`)
-- Capturas de tela da interface do Copilot Studio (`/screenshots`)
-- Referências úteis e materiais complementares
-
----
